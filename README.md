@@ -27,7 +27,10 @@
  8. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/8_MLA_Boosting">Boosting</a>
  9. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/9_MLA_Clustering">Clustering</a>
  10. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/10_MLA_ANN">ANN</a>
- 
+
+> Kindly visit [kick-off-Oracle_of_Football-The_First_Artificial_Neural_Network](https://github.com/robagwe/kick-off-Oracle_of_Football-The_First_Artificial_Neural_Network) for better understanding of ANN.
+
+
  ###### [Datasets](https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/Datasets)
  
 #### :heavy_exclamation_mark: I run on Mac OS/Ubuntu so you might have to slightly modify the code to make it work in your env.
