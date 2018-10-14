@@ -27,7 +27,7 @@
  8. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Boosting</a>
  9. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Clustering</a>
  10. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">ANN</a>
- 11. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Finance Stock Prediction</a>
+ 
  ###### [Datasets](https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt)
  
 #### :heavy_exclamation_mark: I run on Mac OS/Ubuntu so you might have to slightly modify the code to make it work in your env.
