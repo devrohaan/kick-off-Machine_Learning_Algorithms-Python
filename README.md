@@ -17,18 +17,18 @@
 
 ## :clipboard: Table of Contents:
    
- 1. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Linear Regression</a>
- 2. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Logistic Regression</a>
- 3. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">KNN Classifier</a>
- 4. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">NB Classifier</a>
- 5. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">SVM</a>
- 6. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Decision Trees</a>
- 7. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">RF Classifier</a>
- 8. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Boosting</a>
- 9. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">Clustering</a>
- 10. <a href="https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt">ANN</a>
+ 1. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/1_MLA_Linear_Regression">Linear Regression</a>
+ 2. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/2_MLA_Logistic_Regression">Logistic Regression</a>
+ 3. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/3_MLA_KNN_Classifier">KNN Classifier</a>
+ 4. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/4_MLA_NB_Classifier">NB Classifier</a>
+ 5. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/5_MLA_SVM">SVM</a>
+ 6. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/6_MLA_Decision_Trees">Decision Trees</a>
+ 7. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/7_MLA_RF_Classifier">RF Classifier</a>
+ 8. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/8_MLA_Boosting">Boosting</a>
+ 9. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/9_MLA_Clustering">Clustering</a>
+ 10. <a href="https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/10_MLA_ANN">ANN</a>
  
- ###### [Datasets](https://github.com/robagwe/wisdomic-panda/blob/master/cookbook.txt)
+ ###### [Datasets](https://github.com/robagwe/kick-off-Machine_Learning_Algorithms-Python/tree/master/Datasets)
  
 #### :heavy_exclamation_mark: I run on Mac OS/Ubuntu so you might have to slightly modify the code to make it work in your env.
 
